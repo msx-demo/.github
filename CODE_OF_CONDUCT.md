@@ -1,3 +1,0 @@
-# CODE OF CONDUCT
-
-.github - CODE_OF_CONDUCT.md
