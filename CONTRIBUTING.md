@@ -1,3 +1,3 @@
-# Contributing
+# CODE OF CONDUCT
 
-.github - CONTRIBUTING.md
+.github - CODE_OF_CONDUCT.md
